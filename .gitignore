@@ -1,0 +1,5 @@
+# 不备份的目录
+node_modules/
+*.log
+*.tmp
+/tmp/
