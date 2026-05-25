@@ -26,7 +26,17 @@ VALIDATOR="/home/cheche/.openclaw/workspace-wanganyu/scripts/validate-daily-log.
 
 mkdir -p "$P0_DIR" "$P1_DIR" "$P2_DIR"
 
+# 提取年月（用于月度归档文件名）
+YEAR_MONTH="${TARGET_DATE:0:7}"  # 2026-04
+
 log "开始分拣: $TARGET_DATE"
+
+# 检查今天是否已经分拣过（避免重复）
+P0_FILE="$P0_DIR/${YEAR_MONTH}.md"
+if [[ -f "$P0_FILE" ]] && grep -q "📅 ${TARGET_DATE}" "$P0_FILE" 2>/dev/null; then
+    log "⚠️  ${TARGET_DATE} 已分拣过，跳过"
+    exit 0
+fi
 
 # 检查目标文件（优先根目录，兼容旧路径）
 if [[ -f "$DAILY_FILE" ]]; then
@@ -50,9 +60,6 @@ else
     log "❌ 校验脚本不存在或不可执行: $VALIDATOR"
     exit 1
 fi
-
-# 提取年月（用于月度归档文件名）
-YEAR_MONTH="${TARGET_DATE:0:7}"  # 2026-04
 
 # 分拣函数：提取指定标签行，追加到月度文件
 triage_tag() {
