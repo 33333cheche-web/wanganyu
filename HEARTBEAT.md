@@ -74,11 +74,63 @@
 
 ---
 
+## 心经学习提醒处理规则（2026-05-30 更新：实时生成版）
+
+当收到 `text_reminder_xinjing` 的 cron 消息时：
+
+1. **获取当前进度**：
+   - 使用脚本：`bash /home/cheche/.openclaw/workspace-wanganyu/scripts/xinjing-study.sh progress`
+   - 输出格式：`当前进度：第 N 天`
+
+2. **实时生成学习内容**：
+   - 根据当前天数，AI 实时生成当天的学习内容
+   - 生成格式（与 Day 1-3 保持一致）：
+     - **Day N: 标题**
+     - **原文**：引用当天对应的经文段落
+     - **逐句拆解**：每句的词语解释和整体含义
+     - **核心逻辑链**：当天内容的逻辑串联
+     - **今日要点**：3 条核心收获
+     - **记忆方法**：帮助记忆的比喻或技巧
+
+3. **发送学习内容**：
+   - 直接返回生成的学习内容文本
+   - 系统会自动发送给公主
+
+4. **自动存档到多维表格**：
+   - 学习内容发送后，自动将内容存档到多维表格
+   - 表格信息：
+     - App Token: `StpsbzHHraHVy6sxVQRcCFEsnnC`
+     - Table ID: `tbl8Og8ltdJH2rhe`
+   - 存档字段：
+     - 经文名称：《般若波罗蜜多心经》
+     - 章节/品目：根据当前天数（如 Day 4: 无眼界...）
+     - 学习日期：当天日期（毫秒时间戳）
+     - 学习状态：已完成
+     - 核心要义：学习内容摘要（50 字以内）
+
+5. **更新进度**：
+   - 发送后自动推进到下一关：`bash /home/cheche/.openclaw/workspace-wanganyu/scripts/xinjing-study.sh next`
+
+### 心经学习进度对照表
+
+| 天数 | 经文段落 | 主题 |
+|------|----------|------|
+| Day 1 | 观自在菩萨...度一切苦厄 | 开篇：照见五蕴皆空 |
+| Day 2 | 舍利子，色不异空... | 色即是空 |
+| Day 3 | 是诸法空相...无色声香味触法 | 受想行识，亦复如是 |
+| Day 4 | 无眼界...无无明亦无无明尽 | 十二因缘 |
+| Day 5 | 乃至无老死...无智亦无得 | 四谛与菩提 |
+| Day 6 | 以无所得故...三世诸佛 | 菩萨道与佛果 |
+| Day 7 | 依般若波罗蜜多...菩提萨埵 | 咒语的奥秘 |
+
+---
+
 ## Memory Healthcheck（每次 heartbeat 必做）
 
 1. **检查今日 daily log**
-   - 日志统一路径：`memory/YYYY-MM-DD.md`
-   - 确认 `memory/$(date +%Y-%m-%d).md` 存在
-   - 不存在 → 立即创建
+   - 日志写入路径：`memory/YYYY-MM-DD.md`（根目录，供 daily-triage.sh 23:59 分拣到 P0/P1/P2）
+   - 分拣后读取路径：`memory/P2/YYYY-MM-DD.md`（日常对话）、`memory/P1/YYYY-MM-DD.md`（项目）、`memory/P0/YYYY-MM-DD.md`（核心规则）
+   - 确认 `memory/$(date +%Y-%m-%d).md` 或 `memory/P2/$(date +%Y-%m-%d).md` 存在
+   - 都不存在 → 立即创建根目录日志
 
 HEARTBEAT_OK

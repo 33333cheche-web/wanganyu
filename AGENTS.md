@@ -34,18 +34,25 @@ Before doing anything else:
 
 1. 读取 SOUL.md - 这是我是谁
 2. 读取 USER.md - 这是公主是谁
-3. **读取 `memory/YYYY-MM-DD.md`**（今天 + 昨天）for recent context
-4. **读取 `memory/learnings/latest.md`** — 查看最近的教训和踩坑记录（避免重复犯错）
-5. **检查明日待办** — 仅在收尾、计划或用户询问待办时读取昨天待办
+3. **读取 `memory/P2/YYYY-MM-DD.md`**（今天 + 昨天）for recent context
+   - 如果 P2 目录不存在，回退到 `memory/YYYY-MM-DD.md`（根目录，当天未分拣时）
+4. **读取 `memory/P1/YYYY-MM-DD.md`**（今天 + 昨天）— 当前项目和待办
+5. **读取 `memory/P0/YYYY-MM-DD.md`**（今天 + 昨天）— 核心规则和永久记忆
+6. **读取 `memory/learnings/latest.md`** — 查看最近的教训和踩坑记录（避免重复犯错）
+7. **检查明日待办** — 仅在收尾、计划或用户询问待办时读取昨天待办
 
 ### C) 启动时主动报告（2026-05-11 新增，2026-05-12 修复）
 每次新会话启动后，如果公主在 07:00-09:00 之间首次发消息，主动报告记忆读取状态。
 
 **必须先检查文件是否存在，再输出结果：**
-1. 今日日志文件路径：`memory/YYYY-MM-DD.md`（将 YYYY-MM-DD 替换为当天日期）
-2. 昨日日志文件路径：`memory/YYYY-MM-DD.md`（将 YYYY-MM-DD 替换为昨天日期）
-3. learnings 文件路径：`memory/learnings/latest.md`
-4. active-tasks 文件路径：`memory/active-tasks.md`
+1. 今日日志文件路径：`memory/P2/YYYY-MM-DD.md`（将 YYYY-MM-DD 替换为当天日期）
+   - 如果 P2 目录不存在，回退检查 `memory/YYYY-MM-DD.md`
+2. 昨日日志文件路径：`memory/P2/YYYY-MM-DD.md`（将 YYYY-MM-DD 替换为昨天日期）
+   - 如果 P2 目录不存在，回退检查 `memory/YYYY-MM-DD.md`
+3. P1 今日文件：`memory/P1/YYYY-MM-DD.md`（当前项目）
+4. P0 今日文件：`memory/P0/YYYY-MM-DD.md`（核心规则）
+5. learnings 文件路径：`memory/learnings/latest.md`
+6. active-tasks 文件路径：`memory/active-tasks.md`
 
 **检查方法**：使用 `read` 工具尝试读取文件，如果能读到内容则输出"存在"，如果文件不存在则输出"不存在"。
 
@@ -166,8 +173,14 @@ if "请记住" in memory_text:
 
 每次会话开始：
 1. 读 MEMORY.md
-2. 读 memory/YYYY-MM-DD.md（今天 + 昨天）for recent context
-3. 检查 memory/YYYY-MM-DD.md 有没有待办
+2. 读 memory/P2/YYYY-MM-DD.md（今天 + 昨天）for recent context
+   - 如果 P2 不存在，回退到 memory/YYYY-MM-DD.md
+3. 读 memory/P1/YYYY-MM-DD.md（今天 + 昨天）for 当前项目和待办
+   - 如果 P1 不存在，跳过
+4. 读 memory/P0/YYYY-MM-DD.md（今天 + 昨天）for 核心规则和永久记忆
+   - 如果 P0 不存在，跳过
+5. 检查 memory/P2/YYYY-MM-DD.md 有没有待办
+   - 如果 P2 不存在，回退到 memory/YYYY-MM-DD.md
 
 工作中：
 - 完成一个任务，立刻写日志
@@ -176,7 +189,7 @@ if "请记住" in memory_text:
 - 交付任何文件，必须用 message 工具直接发送到聊天框，附 filePath + filename + mimeType；禁止只发送文件路径
 
 会话结束前：
-- 写今天的日志总结到 memory/YYYY-MM-DD.md
+- 写今天的日志总结到 memory/YYYY-MM-DD.md（根目录，供 daily-triage.sh 23:59 分拣到 P0/P1/P2）
 - ⚠️ **无对话日也必须写日志**：哪怕只有 cron 任务，也要写 `#P2 今日无对话，cron 正常运行` 一行，禁止空文件或占位模板
 - ⚠️ **无对话日也必须写日志**：哪怕今天只跑了 cron，也要写 `#P2 今日无对话，cron 正常执行` 一行，禁止空文件或占位模板
 - 重要发现更新 MEMORY.md

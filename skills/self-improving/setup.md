@@ -120,10 +120,10 @@ Add this line in the continuity list (next to Daily notes and Long-term):
 Right after the sentence "Capture what matters...", add:
 
 ```markdown
-Use `memory/YYYY-MM-DD.md` and `MEMORY.md` for factual continuity (events, context, decisions).
+Use `memory/YYYY-MM-DD.md` (根目录，供 daily-triage.sh 分拣到 P0/P1/P2) and `MEMORY.md` for factual continuity (events, context, decisions).
 Use `~/self-improving/` for compounding execution quality across tasks.
 For compounding quality, read `~/self-improving/memory.md` before non-trivial work, then load only the smallest relevant domain or project files.
-If in doubt, store factual history in `memory/YYYY-MM-DD.md` / `MEMORY.md`, and store reusable performance lessons in `~/self-improving/` (tentative until human validation).
+If in doubt, store factual history in `memory/YYYY-MM-DD.md` (根目录，供 daily-triage.sh 分拣) / `MEMORY.md`, and store reusable performance lessons in `~/self-improving/` (tentative until human validation).
 ```
 
 Before the "Write It Down" subsection, add:
@@ -151,7 +151,7 @@ Inside the "Write It Down" bullets, refine the behavior (non-destructive):
 Use this target wording:
 
 ```markdown
-- When someone says "remember this" → if it's factual context/event, update `memory/YYYY-MM-DD.md`; if it's a correction, preference, workflow/style choice, or performance lesson, log it in `~/self-improving/`
+- When someone says "remember this" → if it's factual context/event, update `memory/YYYY-MM-DD.md` (根目录，供 daily-triage.sh 23:59 分拣到 P0/P1/P2); if it's a correction, preference, workflow/style choice, or performance lesson, log it in `~/self-improving/`
 - Explicit user correction → append to `~/self-improving/corrections.md` immediately
 - Reusable global rule or preference → append to `~/self-improving/memory.md`
 - Domain-specific lesson → append to `~/self-improving/domains/<domain>.md`
