@@ -12,3 +12,9 @@ LESSON: 语音脚本超时时应及时降级，避免重复轮询；后续可单
 CONTEXT: 语音提醒生成与发送
 REFLECTION: 首次带管道的执行在超时后被终止，分步执行成功；Noiz失败，百炼备用链路正常。
 LESSON: 语音生成任务使用足够长的后台超时并分步轮询，避免命令替换管道丢失输出。
+CONTEXT: 09:30 walk voice reminder
+REFLECTION: Noiz generation timed out/failed, but the script fallback to Bailian produced and sent the opus successfully.
+LESSON: Keep the existing fallback path; allow a longer generation timeout for voice reminders.
+CONTEXT: 午后运动语音提醒
+REFLECTION: 首次语音生成因外部服务响应超时被终止，延长命令等待时间后通过备用/重试流程成功生成并发送。
+LESSON: 语音生成应给予足够超时时间；失败时先重试并确认实际 opus 路径，再发送。
