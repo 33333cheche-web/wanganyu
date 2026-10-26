@@ -1,0 +1,7 @@
+[wanganyu/sessions/wanganyu/1b9deaf7-6a76-43e8-bf6f-1d227ab5c16e#L9] Assistant: 公主，喝口水吧 💧 身体60%都是水，补充一下能量~
+[wanganyu/sessions/wanganyu/1f0d0c04-095a-42a4-b3f4-b0a38af72901#L6] Assistant: 午饭时间到啦，公主～别让工作把胃也一起加班了，去吃点热乎的，下午才有力气继续发光。
+[wanganyu/sessions/wanganyu/36f3f1b9-6c0b-4595-a346-3bca6acfd682#L9] Assistant: 公主，该吃晚饭啦！🍽️ 今天想吃点什么呀？记得好好吃饭，不要饿着自己～
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L144] User: [OpenClaw exec completion] Disable automatic completion turns with tools.exec.notifyOnExit=false; check per-agent overrides. Background exec and process poll remain available.
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L147] Assistant: voice_1792463439.opus
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L158] Assistant: voice_1792472417.opus
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L184] Assistant: voice_1792499410.opus

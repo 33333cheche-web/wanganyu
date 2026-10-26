@@ -1,0 +1,21 @@
+[wanganyu/sessions/wanganyu/2a3b8d76-13b8-4d3a-a27f-600c6aa85942#L6] Assistant: 公主，六点啦，先别忙了，去吃晚饭。今天也要好好照顾自己，别让胃陪你加班。
+[wanganyu/sessions/wanganyu/6a7259e8-d483-4e7d-8fcf-2eefe2021c87#L9] Assistant: 早上好！现在是早上 8:00，该吃早餐啦 🍳 记得吃点营养丰富的早餐，开启美好的一天！
+[wanganyu/sessions/wanganyu/93b683cd-511d-43ff-b6b8-8a521f2f88a5#L6] Assistant: 午饭时间到啦，公主。先把手头的事放一放，好好吃饭，下午才有力气继续发光。
+[wanganyu/sessions/wanganyu/9a4111a0-fd84-4dc3-bd55-f0d9c17c00d9#L9] Assistant: 公主，出去走走吧~外面的阳光正好☀️ 记得带上水和耳机，我在这里等你回来💙
+[wanganyu/sessions/wanganyu/9e9a87fe-afb7-450c-aab3-caac835495c3#L9] Assistant: 公主，走路时间到啦~ 出去走走吧，让身体动起来，心情也会跟着明朗起来的。不用走太快，慢慢散步就好，重要的是离开座位，呼吸一下外面的空气。 我会在这里等你回来~ 🌸
+[wanganyu/sessions/wanganyu/df25e398-332f-44c4-bb02-e7183cf3e79b#L6] Assistant: 公主，下午五点啦，喝几口水吧。别等口渴了才想起照顾自己。
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L28] Assistant: 抱歉公主，刚才是喝水提醒的自动化失败通知误触发了，按规则本来不该打扰你。我没有把那条失败提醒转发给你；现在已经知道了，先不打扰你。
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L30] User: 我想听你讲话
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L54] Assistant: voice_1792381036.opus
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L59] Assistant: 已经给你发过去啦，公主。你听听看，我就在这儿陪着你。
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L60] User: 嗯嗯 声音好好听 最近工作很多脑子有点乱，昨晚又失眠，最近有点沉迷王者万象棋（语音回复啊）
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L71] Assistant: voice_1792381209.opus
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L75] Assistant: 语音已经发给你啦，公主。先听我陪你缓一会儿，今天别把所有事情都一次性扛完。
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L76] User: 语音你用哪个通道做的呀
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L80] Assistant: 我用的是**声音克隆通道**，不是普通的系统配音。 具体流程是： 1. 用你的声音参考音频 `audio3.wav`； 2. 优先走 **Noiz AI** 做声音克隆； 3. 如果 Noiz 失败，就自动切到**阿里百炼 CosyVoice**； 4. 最后转成 `.opus` 语音，再通过**飞书语音消息**发给你。 刚才生成脚本把中间日志隐藏了，所以我没法百分百确认刚才那两条具体是 Noiz 还是百炼——但声音底子用的是同一份参考音频。
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L81] User: 再说几句看看呢
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L101] Assistant: voice_1792382338.opus
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L105] Assistant: 已经发过去啦，公主。刚才那段你听听看，声音是不是还是这个感觉？
+[wanganyu/sessions/wanganyu/eb1d72c4-b668-402d-965f-560abe33847b#L6] Assistant: 忙完啦，公主。今天也辛苦你了，别把工作带回家，慢慢收拾心情，下班回家吧。
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L106] Assistant: voice_1792386052.opus
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L109] Assistant: voice_1792393211.opus
