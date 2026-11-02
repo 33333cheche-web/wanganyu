@@ -1,0 +1,9 @@
+[wanganyu/sessions/wanganyu/441bce59-1f1c-45ab-9d4a-d37dc1c3a1da#L9] Assistant: 公主，中午啦，记得按时吃饭，别让胃替你加班。
+[wanganyu/sessions/wanganyu/73a2d59d-309c-4566-a810-94ee73278306#L6] Assistant: 公主，六点啦，先去吃晚饭吧。今天也要好好喂饱自己，别让胃等太久。
+[wanganyu/sessions/wanganyu/8d1a8f33-1f6f-4046-954b-88651e45f1b0#L6] Assistant: 下班啦，公主。今天辛苦了，先把工作放一放，回家的路上慢一点。
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L645] Assistant: 公主，午餐提醒刚才连续失败 10 次被自动停用了。我查到原因是：自动化用了 `channel: last`，但没有固定飞书接收人，系统为了避免发错会话而拒绝投递。 我已经把它改成固定发给你的飞书账号，并重新启用了。下次工作日中午 12 点会恢复发送。
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L646] Assistant: voice_1793336411.opus
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L660] User: 十二年产业实践，写在这些数字里。这句写在这些数字里 这个表达很AI，优化一下
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L662] Assistant: 对，“写在这些数字里”有点悬，像宣传稿里的套话。可以改成： - **十二年产业实践，数据给出了答案。** - **十二年深耕产业，成绩有目共睹。** - **十二年产业积累，最终沉淀为这一组数字。** - **十二年扎根产业，数字见证了我们的成长。** - **十二年做产业，成绩都在这组数据里。** 如果想更克制、像正式材料，我最推荐： **十二年产业实践，最终沉淀为这一组数字。** 如果想更有力量一点： **十二年深耕产业，成绩都在这组数字里。**
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L676] Assistant: 公主，两个提醒都因为同一个原因连续失败了 10 次：投递目标用了模糊的 `last`，系统不知道该发到哪个会话，所以主动拦截了。 我已经把**下班提醒**和**晚餐提醒**都改成固定发给你的飞书账号，并重新启用。下周一会恢复正常。
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L677] Assistant: voice_1793363418.opus

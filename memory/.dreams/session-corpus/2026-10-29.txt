@@ -1,0 +1,5 @@
+[wanganyu/sessions/wanganyu/026b3f9b-1628-4cb8-a486-259d3b97c4c9#L15] Assistant: 晚饭时间到，记得按时吃饭哦～
+[wanganyu/sessions/wanganyu/09e2aba3-568f-47d6-a59d-d6b28b2bdd33#L6] Assistant: 早上好，记得吃早餐呀！🥣
+[wanganyu/sessions/wanganyu/56d5d3a7-ceb1-40c5-b653-c9498c67c23a#L15] Assistant: AUTOMATION_FAILED 语音提醒生成失败：generate-voice.sh 运行超时并被终止，检查后未发现生成的语音文件。
+[wanganyu/sessions/wanganyu/652f14c9-fb38-4d5d-b657-4ae9d830c6cf#L6] Assistant: 公主，中午啦，先放下手里的事去吃饭。今天也要好好吃点热乎的，别拿咖啡糊弄自己。
+[wanganyu/sessions/wanganyu/d95adc09-1a26-4ca2-a485-15441216ae43#L6] Assistant: 公主，下班啦。今天辛苦了，先把工作放一放，回家的路上慢一点，晚上好好吃饭。

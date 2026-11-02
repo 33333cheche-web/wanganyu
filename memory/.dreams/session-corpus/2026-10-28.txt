@@ -1,0 +1,4 @@
+[wanganyu/sessions/wanganyu/3edfa1dc-1209-4d90-8011-161dc73db84d#L15] Assistant: 公主，该吃午餐啦，今天想吃什么？
+[wanganyu/sessions/wanganyu/7fff7da8-74c1-45a0-bbbc-ddcef4319fda#L6] Assistant: 公主，六点啦。今天先到这里，收拾一下准备下班吧，剩下的明天再接着做。
+[wanganyu/sessions/wanganyu/916a2881-08d4-476f-a7be-3a04684f3b55#L6] Assistant: 王安宇，早上好！记得吃早餐，开启元气满满的一天呀～
+[wanganyu/sessions/wanganyu/e204ecf8-c72d-40a0-be1b-5c5ef1c00439#L9] Assistant: 公主，晚上六点啦，记得好好吃晚餐。别忙到把自己饿过头，今天想吃点什么？
