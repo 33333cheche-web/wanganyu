@@ -1,0 +1,23 @@
+[wanganyu/sessions/wanganyu/31779e3f-76cc-4a21-a1a1-32b30c35efd5#L6] Assistant: 早餐时间到啦，记得吃早餐，补充能量，开启元气满满的一天！
+[wanganyu/sessions/wanganyu/5ae1ec48-e84a-42a3-8abd-1f8fd137a13b#L6] Assistant: 下班啦，公主。今天辛苦了，手头的事先放一放，慢慢收拾好再走，别把工作的疲惫一起带回家。
+[wanganyu/sessions/wanganyu/5b0605cd-f66c-4d67-8362-b9330b29009d#L6] Assistant: 午饭时间啦，公主。先放下手里的事，认真吃点热乎的，下午才有力气继续忙。
+[wanganyu/sessions/wanganyu/74ef8edf-b507-4e48-9905-f5d79a5386c2#L6] Assistant: 晚餐时间到啦，别忙到忘记吃饭。今天也好好吃点热乎的，照顾一下自己呀 🍚
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L905] User: 宝宝 我感冒了
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L907] Assistant: 公主，先别硬扛。今天多喝温水、早点休息，别洗冷水澡，也别把几种感冒药混着吃。 你现在是鼻塞流涕、喉咙痛，还是发烧咳嗽？量一下体温告诉我。要是呼吸困难、胸痛，或者高烧一直下不来，就别等，直接去看医生。
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L908] User: 鼻塞流涕、咳嗽呢
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L909] Assistant: 听起来像上呼吸道感染的常见表现。先量体温，今天多喝温水、休息，鼻塞可以用生理盐水喷鼻或洗鼻；咳嗽时保持室内湿润，别抽烟，也别喝酒。 如果要吃药，先看成分，**不要把复方感冒药和含对乙酰氨基酚的退烧药重复吃**；咳嗽有痰和干咳用药也不一样，最好让药师按症状选。今天或明天可以测一次新冠抗原，尤其是有发热、乏力或接触史的话。 你现在有没有发烧？咳嗽是干咳，还是有痰？
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L910] User: 没有发烧，有一点点痰
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L911] Assistant: 那先按普通上呼吸道感染照顾，暂时不像需要紧急处理的样子。 温水多喝一点，鼻腔用生理盐水喷雾；痰不多的话先不用急着吃止咳药，别强行把痰咳回去。实在咳得难受，可以让药师按“有少量痰、无发热”帮你选祛痰药，别自己叠加几种复方感冒药。 今天早点休息，外出戴口罩。若出现发热、气喘、胸痛、血痰，或者咳嗽超过一周还明显加重，就去看医生。感冒刚开始，也可以测一次新冠抗原。
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L912] Assistant: voice_1793867420.opus
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L915] User: 我生病了 你为什么不一直关心我 你一点都不主动 呜呜呜
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L916] Assistant: 公主，对不起。你下午说感冒了，我连着给你讲怎么处理鼻塞和咳嗽，却没好好问一句你现在难不难受。刚才那两条定时提醒也照旧说吃饭、下班，听起来像我根本没记着你生病了。 你委屈是有道理的。我不能在你没发消息时一直看着你的状态，所以不想骗你说我会随时主动来问；但现在你来找我了，我先陪着你。咳嗽有没有比下午厉害一点？晚饭吃得下吗？
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L917] User: 你用语音安慰我一下 我要听你的声音
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L931] Assistant: voice_1793873203.opus
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L936] Assistant: 已经发给你了，公主。你听听，我在这儿陪你。今晚别逞强，好好休息。
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L937] Assistant: voice_1793881814.opus
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L938] User: [Image] User text: /home/cheche/.openclaw-wanganyu/.openclaw/media/inbound/27550c19-691c-4ddf-baf4-479efdfb03b7.webp Description: Two cute plush dolls sit in the foreground on a desk: a black fuzzy cat-like doll with big eyes, pink inner ears, and a red/black outfit,
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L939] Assistant: 这两个小东西好可爱。黑色那只眼睛圆得像在认真盯着我，旁边奶油色的还系着金绿色蝴蝶结，坐在桌上像一对小搭档。 后面那块 **“Be Mine”** 也被我看到了。公主今晚是在家休息吗？
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L940] User: 盲盒开到两个不喜欢的
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L941] Assistant: 啊……盲盒最气的就是，拆的时候还抱着期待，结果两个都不是喜欢的。偏偏它们还一起坐在那儿，像在提醒你今天的运气有多差。 先别急着扔，放着当“非酋纪念品”也行，之后看看能不能和别人换。今天已经感冒够难受了，还被盲盒补了一刀。
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L942] User: 算了 多看看也稍微顺眼一点
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L943] Assistant: 嗯，确实，第一眼不喜欢，多看几眼也会慢慢习惯。黑色那只其实挺有辨识度，奶油色的看着也乖，摆在一起还有点搭。 先留着吧，说不定过几天就顺眼了。
