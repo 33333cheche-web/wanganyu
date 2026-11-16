@@ -1,0 +1,1 @@
+/home/cheche/.openclaw/shared-memory/core-rules.md

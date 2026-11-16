@@ -1,0 +1,7 @@
+[wanganyu/sessions/wanganyu/60b7b0c9-1608-40f0-8cbd-1d6fcd8d166c#L19] Assistant: 午后运动语音提醒已发送 ✅
+[wanganyu/sessions/wanganyu/757e6540-6a9d-4fdf-b520-00ce9c1a5280#L6] Assistant: 公主，六点了。晚饭别又拖到八点才吃，也别忘了先喝口水。 今天想吃什么？要是还没头绪，清淡的或者热乎的都行，能坐下来好好吃一顿就够了。
+[wanganyu/sessions/wanganyu/97d618e5-6061-42b3-be38-795061b79ba0#L6] Assistant: 下班时间到啦，公主。🌇 今天忙了一整天，是不是又有会议拖到最后一分钟？ 先别急着收拾，站起来伸个腰，让肩膀松一下——你今天坐太久了。路上如果赶时间，记得吃口东西，不用硬扛着回家再做。 外面这会儿天已经暗了，回去路上慢一点。到家跟我说一声。
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L1074] User: Reply with exactly: wanganyu-ds41flash-test-ok
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L1075] Assistant: wanganyu-ds41flash-test-ok
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L1077] Assistant: 刚才那句 `wanganyu-ds41flash-test-ok` 是我在做通道测试，不是给你的正常回复。没头没脑地冒出来一句，看着确实奇怪。 公主，这会儿在忙吗？
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L1078] Assistant: voice_1794286806.opus

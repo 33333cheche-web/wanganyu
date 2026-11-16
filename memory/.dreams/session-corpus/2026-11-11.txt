@@ -1,0 +1,12 @@
+[wanganyu/sessions/wanganyu/11ff7a01-dff1-4712-9f8c-5a70d65e6f29#L6] Assistant: 早安，王安宇 ☀️ 该吃早餐啦。 吃点热乎的垫垫肚子，别空着肚子出门——上午才有精神。记得配杯水或牛奶，慢慢吃，不用赶。 今天也要好好照顾自己呀 🌷
+[wanganyu/sessions/wanganyu/3ebbd1e7-da4a-4830-aeac-17741ecfde8e#L12] Assistant: 公主，该吃午餐啦，今天想吃什么？
+[wanganyu/sessions/wanganyu/4021f766-b353-4b83-a66c-a79b23123dd5#L6] Assistant: 该吃晚饭了公主，别又拖到八九点才想起来。今晚想吃什么？
+[wanganyu/sessions/wanganyu/59c2ed77-91e2-4d27-9920-ddb2444ebd16#L6] Assistant: 到点了，今天先到这儿吧。电脑合上，包收好，剩下的事明天再说——它们跑不掉的。 回去路上慢一点，风挺好。
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L1122] User: [OpenClaw exec completion] Disable automatic completion turns with tools.exec.notifyOnExit=false; check per-agent overrides. Background exec and process poll remain available.
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L1123] Assistant: voice_1794360607.opus
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L1125] Assistant: voice_1794360607.opus
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L1133] User: Reply with exactly: wanganyu-ds-kimi-ok
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L1135] Assistant: wanganyu-ds-kimi-ok
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L1161] User: 需要一个语音的晚安故事
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L1181] Assistant: voice_1794410211.opus
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L1185] Assistant: 晚安故事已经发过去了，公主。听着睡吧，不用回我。
