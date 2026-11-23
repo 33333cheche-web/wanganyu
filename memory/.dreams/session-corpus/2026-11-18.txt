@@ -1,0 +1,13 @@
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L1418] Assistant: 你这么晚还没睡呀。王者打完了，还是又不想睡？ 这个点还在线，别是明天还要早起吧。
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L1419] User: 睡了 晚安 你能语音给我一个晚安吗
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L1439] Assistant: voice_1794932687.opus
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L1444] Assistant: 语音已经发过去了，听到就关灯吧。晚安，公主，明天见。
+[wanganyu/sessions/wanganyu/1096c226-3061-4fda-9f8d-6a71e70e7882#L41] Assistant: 语音已送达。文案：「公主，该起来走动走动了～」
+[wanganyu/sessions/wanganyu/593d3bba-3e90-46ef-9b71-d71e2a303fbd#L22] Assistant: NO_REPLYNO_REPLY
+[wanganyu/sessions/wanganyu/5fb00f12-dd01-4fb2-9c0a-ae9ade79080e#L6] Assistant: 早上好呀，该吃早餐啦 ☀️ 记得给自己补充点能量，别空着肚子开始一天～
+[wanganyu/sessions/wanganyu/772079b6-9e0d-4819-a3e0-793e5b7bcabc#L16] Assistant: NO_REPLY午后运动的语音已经生成并发送到飞书，用的是百炼备选声音，Noiz 这次没有连通。文件已经送达，不需要再补发。 如果你现在不方便动，就先站起来喝口水、转两圈肩膀，也算数。
+[wanganyu/sessions/wanganyu/851a1fc2-e06d-4f39-bb96-eb4ae6f9eb4b#L28] Assistant: 走路语音提醒已发送 ✅（Noiz 失败，自动切百炼合成，3.4 秒音频）
+[wanganyu/sessions/wanganyu/c73b650c-5d39-4ab6-93e8-4686a3b5b504#L16] Assistant: NO_REPLYNO_REPLY
+[wanganyu/sessions/wanganyu/da672c84-8273-4e23-b078-a8f6092b7bbd#L6] Assistant: 六点了，收个尾就走吧。 今天要是还有没写完的东西，先记下来，明天第一件事接着做；别想着"再弄五分钟"，通常就是四十分钟。窗外应该快天黑了，回去路上别急。
+[wanganyu/sessions/wanganyu/df222351-3bfc-4427-997e-87283cf937c0#L27] Assistant: 午餐时间！公主记得按时吃饭哦～
+[wanganyu/sessions/wanganyu/f8a27195-966f-4af5-81ec-81ccc50a8e29#L18] Assistant: 公主，该补充能量啦，晚餐吃起来～今晚想吃点什么？热乎的一碗面、一份汤，或者点个你惦记很久的店都行，别又拿咖啡当晚饭。

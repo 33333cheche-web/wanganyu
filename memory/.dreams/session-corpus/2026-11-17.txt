@@ -1,0 +1,17 @@
+[wanganyu/sessions/wanganyu/11a406af-42d5-49c4-94d6-def928d2512b#L24] Assistant: 晚上好公主，该结束工作啦，回家好好休息～
+[wanganyu/sessions/wanganyu/164f9913-58f6-4ef7-a31b-a860af401cbe#L22] Assistant: Voice walk reminder has been generated and sent to your Feishu. NO_REPLY
+[wanganyu/sessions/wanganyu/285db332-8523-4956-b5f2-49de206c4c2b#L39] Assistant: 公主，该补充能量啦，晚餐吃起来～
+[wanganyu/sessions/wanganyu/3805e757-e89a-49fc-b7b7-610fc4c2d502#L25] Assistant: NO_REPLY15:00 的走动语音提醒已生成并发出（百炼合成，opus 10.2 KB，消息 ID om_x100b608bf28fe8bcdd1232b092e9790），日志也已补上一行。这次定时任务到这里就结束了，没有未完成的部分。
+[wanganyu/sessions/wanganyu/5222430f-8c3f-4def-87e4-091607249fb0#L6] Assistant: 下午好，现在是下午一点，起来活动一下吧。久坐容易让身体僵硬，建议先站起来伸伸腰、转转肩颈，再出去走十分钟，或者做几组深蹲和开合跳。动一动，整个人会清爽很多，下午的状态也会更好。
+[wanganyu/sessions/wanganyu/637d2e78-5574-49b7-89e8-5627f6d1a722#L18] Assistant: 公主，该吃午餐啦，今天想吃什么？
+[wanganyu/sessions/wanganyu/c2201060-5e95-4993-b170-5872e9d43a40#L53] Assistant: 语音已发送 ✅
+[wanganyu/sessions/wanganyu/de23b695-1c5f-4837-bd71-28835d201ad4#L15] Assistant: 公主，八点啦，该吃早餐了。 冰箱里有鸡蛋的话煎一个，配杯热的，别又是空着肚子到中午。今天上海早上有点凉，出门记得多穿一件。
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L1339] User: 我想听听你的声音
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L1354] Assistant: voice_1794914109.opus
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L1359] User: [System] Your previous turn was interrupted by a gateway restart while OpenClaw was waiting on tool/model work. The restart did not cancel the user's task. Continue from the existing transcript: check the current state, recover interrupted work, and finish the task 
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L1359] User: continue it, assign replacement work, or finish it yourself. A restart interruption alone is not a blocker. Finish the original task or report the specific remaining blocker that requires user input or unavailable authority. Treat a tool result marked interrupted or
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L1367] Assistant: 刚才那条语音已经在 19:16 发给你了，发送结果正常，不需要重发。 今天有点累的话，早点休息就好。
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L1368] User: 你在干什么呀？下班了吗？你用语音回复我呢
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L1389] Assistant: voice_1794915106.opus
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L1399] User: 我准备玩几把王者万象棋！你会吗
+[wanganyu/sessions/wanganyu/e34308d4-3876-43c8-aac1-f4d194b0927a#L1400] Assistant: voice_1794918975.opus
