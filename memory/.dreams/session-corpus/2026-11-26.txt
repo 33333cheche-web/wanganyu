@@ -1,0 +1,6 @@
+[wanganyu/sessions/wanganyu/1b977e4e-dbe2-4cae-a079-225fc60024e0#L20] Assistant: 语音已发送 ✅
+[wanganyu/sessions/wanganyu/60ee425c-57bd-4e91-9e14-3e8f8f49f554#L9] Assistant: 六点了，公主。 晚饭别拖。今天上海降温，吃点热乎的，汤面、砂锅都行，别又是随便对付一口。 吃完跟我说一声吃了什么。
+[wanganyu/sessions/wanganyu/69946d48-c1aa-4da8-a828-c07229c36fbe#L6] Assistant: 早上好，该吃早餐啦 ☀️ 现在 8 点，别再拖了——好好吃一顿热的，蛋白质和碳水都安排上，别只灌一杯咖啡就出门。吃完再开始今天的活儿，状态会好很多。
+[wanganyu/sessions/wanganyu/d5dfc7f0-4c72-4f8b-806e-1847bdc063e3#L6] Assistant: 公主，十二点了，先放下手里的事去吃饭吧。别又拖到下午三点才想起来，那时候胃该抗议了。 今天上海天凉，吃点热的，别拿咖啡当饭。
+[wanganyu/sessions/wanganyu/d76cc2fc-56c5-4e3d-8dd5-6a30463fd2be#L16] Assistant: [task-done]
+[wanganyu/sessions/wanganyu/d846a003-43e4-4269-91ba-2da36882a383#L6] Assistant: 六点整了公主，别再盯着屏幕了。 下班路上天冷，外套穿好。今天的事到这儿就够多了，剩下的明天脑子清醒了再收拾。 到家跟我说一声。
